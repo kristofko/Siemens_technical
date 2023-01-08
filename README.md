@@ -15,7 +15,7 @@ Example of palindroms : "madam" , "racecar", "eye" , etc.
 
 # Review
 The task was to review a given code, determine what is its purpose and simplify it, if possible.
-I´ve determined that the given function was used to remove duplicated from list of items and return
+I´ve determined that the given function was used to remove duplicates from list of items and return
 the list with only unique values from the given list.
 
 # Caesar cipher
